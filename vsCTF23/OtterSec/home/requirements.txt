@@ -1,0 +1,7 @@
+requests
+tensorflow
+numpy
+matplotlib
+h5py
+scikit-image
+keras
